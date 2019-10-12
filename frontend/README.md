@@ -6,6 +6,8 @@
 ### Installing
 1. Clone the project.
 
+2. Go to `src->config.js` and add your Google key for "applicationKey": "Add your key here".
+
 2. In your terminal, run `npm install`, this will download all of the node modules required to run the project.
 
 3. In your terminal, run `npm run start` to start the local server, compile the JS files as well as start the watcher tasks for your JS files.
